@@ -64,8 +64,22 @@
 
 ## 6. 截图
 
-- 部署成功：https://testnet.snowtrace.io/tx/0x95499466fd8439ab51c7d7089f0018ba42465759caf6e796c405c13ab05e839d
-- 区块浏览器中的合约：https://testnet.snowtrace.io/address/0x9032de5e288ce8aF4E219a1277625E426Ab21f78
-- 发行：https://testnet.snowtrace.io/tx/0xd62bce28522db680cc412e4457df60c456ca0b1c92dcc96d59e59b59d53412c4
-- 转账：https://testnet.snowtrace.io/tx/0x727eed9c5291884abeec439483ecab400eb47e0212906a2b3ef53f1cfb8cb85f
-- 销毁：https://testnet.snowtrace.io/tx/0x55c4033c82b64a459b8641da9eb314edb1199f65ad5dfd1fe0a125194046bb78
+部署成功：
+
+![部署茶叶仓单合约](task5Groos-dev-deploy.jpg)
+
+区块浏览器中的合约：
+
+![Tea Warehouse Receipt 合约页面](task5Groos-dev-contract.jpg)
+
+发行 100 个 TEA：
+
+![发行 100 个 TEA](task5Groos-dev-mint.jpg)
+
+转账 10 个 TEA：
+
+![转账 10 个 TEA](task5Groos-dev-transfer.jpg)
+
+销毁 5 个 TEA：
+
+![销毁 5 个 TEA](task5Groos-dev-burn.jpg)
