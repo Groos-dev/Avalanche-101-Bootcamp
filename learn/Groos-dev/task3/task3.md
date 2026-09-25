@@ -27,6 +27,8 @@ Pangolin V2。价格来自交易对储备，通过路由合约 `getAmountsOut` �
 
 放入流动性（200 个 PSIM 和 0.05 个测试币）：[`0x79d35195468e6d3cf568b7699953a2a8b9bfc5f5ba851489dc0c2ff4dae4e5b4`](https://testnet.snowtrace.io/tx/0x79d35195468e6d3cf568b7699953a2a8b9bfc5f5ba851489dc0c2ff4dae4e5b4)。
 
+![添加流动性并创建交易对](task3Groos-dev-liquidity.jpg)
+
 购买之后，交易对储备约为 0.06 个 WAVAX 和 166.75 个 PSIM。
 
 ## 获取价格的代码
