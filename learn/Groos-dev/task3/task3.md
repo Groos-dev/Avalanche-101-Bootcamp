@@ -21,7 +21,7 @@ Pangolin V2。价格来自交易对储备，通过路由合约 `getAmountsOut` �
 | Token B | WAVAX | [`0xd00ae08403B9bbb9124bB305C09058E32C39A48c`](https://testnet.snowtrace.io/address/0xd00ae08403B9bbb9124bB305C09058E32C39A48c) |
 | 交易对 | PSIM / WAVAX | [`0xE4D5c923Be23Aa11976C049Fd376D18aF5261111`](https://testnet.snowtrace.io/address/0xE4D5c923Be23Aa11976C049Fd376D18aF5261111) |
 
-任务 2 已部署的 SIM 合约没有授权函数，部署后不能再改。任务 3 因此新部署了带授权和定价函数的 PSIM。部署交易：[`0x44d176e80f21b20006cd594dd57c55819fe699b92060d890527bd4798812b681`](https://testnet.snowtrace.io/tx/0x44d176e80f21b20006cd594dd57c55819fe699b92060d890527bd4798812b681)。
+部署了带授权和定价函数的 PSIM。部署交易：[`0x44d176e80f21b20006cd594dd57c55819fe699b92060d890527bd4798812b681`](https://testnet.snowtrace.io/tx/0x44d176e80f21b20006cd594dd57c55819fe699b92060d890527bd4798812b681)。
 
 授权 Pangolin 使用 200 个 PSIM：[`0x2a6afec3c164c3451dd72919bebe3aee47d67bbbbe9dcfafeb5837465d2e1da0`](https://testnet.snowtrace.io/tx/0x2a6afec3c164c3451dd72919bebe3aee47d67bbbbe9dcfafeb5837465d2e1da0)。
 
