@@ -67,6 +67,8 @@ function buy(uint256 minSimOut) external payable {
 
 购买交易：[`0x7a3afb4cd3745d48ed217f5ed60dd494f5aadf957affdb08ecc8334e812f7e48`](https://testnet.snowtrace.io/tx/0x7a3afb4cd3745d48ed217f5ed60dd494f5aadf957affdb08ecc8334e812f7e48)
 
+![按 Pangolin 报价买入 PSIM](task3Groos-dev-buy.jpg)
+
 | 项目 | 结果 |
 | --- | --- |
 | 状态 | 成功 |
